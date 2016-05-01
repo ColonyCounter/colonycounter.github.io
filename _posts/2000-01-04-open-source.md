@@ -7,7 +7,7 @@ fa-icon: users
 
 # Open-Source
 
-The software is published under the [Apache License 2.0](https://github.com/ColonyCounter/ColonyCounter/LICENSE).
+The software is published under the [Apache License 2.0](https://github.com/ColonyCounter/ColonyCounter-GUI/blob/master/LICENSE).
 
 This is currently a hobby project. We do not have a professional IT background, so we are happy about every advice to improve the software.
 
