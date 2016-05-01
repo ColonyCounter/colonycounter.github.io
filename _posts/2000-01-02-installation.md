@@ -1,7 +1,7 @@
 ---
 title: "Installation"
-bg: black
-color: white
+bg: green
+color: black
 fa-icon: download
 ---
 

@@ -2,7 +2,7 @@
 title: "Open Source"
 bg: black
 color: white
-fa-icon: creative-commons
+fa-icon: users
 ---
 
 # Open-Source
